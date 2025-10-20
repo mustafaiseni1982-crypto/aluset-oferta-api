@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aluset-oferta-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "aluset_offerta_db",
+			"database_id": "65d478c2-0301-4676-8c0b-02bf4ae21ab4"
+		}
+	]
+}
